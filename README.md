@@ -26,7 +26,7 @@ This project answers a core business question:
 
 **Tools:** Python  
 **Environment:** Jupyter Notebook (Google Colab)  
-Notebook: [View Here](https://github.com/SethSterlin/BigMart-Sales-Prediction/blob/main/Big_Mart_Project.ipynb)
+📘 Notebook: [View Here](https://github.com/SethSterlin/BigMart-Sales-Prediction/blob/main/Big_Mart_Project.ipynb)
 
 ---
 
